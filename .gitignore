@@ -1,0 +1,8 @@
+programs_raw/
+sections_asm/
+sections_raw/
+file_header.json
+programs.json
+sections.json
+out.elf
+node_modules/
